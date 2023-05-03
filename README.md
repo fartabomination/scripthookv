@@ -1,7 +1,9 @@
 # scripthookv
 
 Here you can easily find the most recent version of scripthookv so your mods
-can become compatible once again!
+can become compatible once again!`
+
+Requires ScriptHookV.net. you can download it from here, https://github.com/fartabomination/scripthookv.net/releases/tag/Releases
 
 # Releases
 
